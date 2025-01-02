@@ -56,6 +56,8 @@ BDEPEND="
 	>=dev-libs/wayland-protocols-1.31
 	dev-util/wayland-scanner
 	virtual/pkgconfig
+	gui-libs/hyprutils
+	dev-util/hyprwayland-scanner
 "
 
 RDEPEND="
